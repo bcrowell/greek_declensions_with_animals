@@ -13,6 +13,8 @@ The recording introduces you to the whole list of animal vocabulary words, in th
 nominative and genitive, but doesn't tell you in English what they are. The file
 all-animals.jpg shows you this using pictures above the written Greek words.
 
+![animals with Greek words below](all-animals.jpg)
+
 Credits for the art are in figs/credits
 
 # Pronunciation
