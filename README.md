@@ -11,7 +11,7 @@ then you should be able to figure it out. Answers are provided in the file answe
 
 The recording introduces you to the whole list of animal vocabulary words, in the
 nominative and genitive, but doesn't tell you in English what they are. The file
-all-animals.svg shows you this using pictures above the written Greek words.
+all-animals.jpg shows you this using pictures above the written Greek words.
 
 Credits for the art are in figs/credits
 
