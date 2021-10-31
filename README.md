@@ -13,6 +13,8 @@ The recording introduces you to the whole list of animal vocabulary words, in th
 nominative and genitive, but doesn't tell you in English what they are. The file
 all-animals.svg shows you this using pictures above the written Greek words.
 
+Credits for the art are in figs/credits
+
 # Pronunciation
 
 The pronunciation is a pretty standard US Erasmian, with tonal accents. I pronounce
