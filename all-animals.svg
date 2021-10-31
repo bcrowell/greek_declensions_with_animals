@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="all-animals.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70408165"
+     inkscape:cx="508.61651"
+     inkscape:cy="647.71245"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/bee.png"
+       xlink:href="figs/bee.png"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="23.108879"
+       height="12.854316"
+       preserveAspectRatio="none"
+       id="image893"
+       x="176.12198"
+       y="94.513702" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/bird.jpg"
+       xlink:href="figs/bird.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="20.518213"
+       height="16.301031"
+       preserveAspectRatio="none"
+       id="image955"
+       x="7.9134135"
+       y="89.797935" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/boar.jpg"
+       xlink:href="figs/boar.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="21.302176"
+       height="15.084536"
+       preserveAspectRatio="none"
+       id="image1017"
+       x="77.217598"
+       y="63.93211" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/bull.jpg"
+       xlink:href="figs/bull.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="19.819662"
+       height="17.030828"
+       preserveAspectRatio="none"
+       id="image1079"
+       x="146.4639"
+       y="31.239586" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/calf.jpg"
+       xlink:href="figs/calf.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="20.181112"
+       height="18.701162"
+       preserveAspectRatio="none"
+       id="image1141"
+       x="181.26781"
+       y="31.582146" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/crow.png"
+       xlink:href="figs/crow.png"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="20.785727"
+       height="18.340347"
+       preserveAspectRatio="none"
+       id="image1203"
+       x="54.327484"
+       y="86.781425" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/deer.jpg"
+       xlink:href="figs/deer.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="21.755358"
+       height="20.085163"
+       preserveAspectRatio="none"
+       id="image1265"
+       x="43.162273"
+       y="58.93148" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/dog.jpg"
+       xlink:href="figs/dog.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="14.597939"
+       height="15.246735"
+       preserveAspectRatio="none"
+       id="image1327"
+       x="9.1361961"
+       y="34.191483" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/eagle.jpg"
+       xlink:href="figs/eagle.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="17.859783"
+       height="16.777372"
+       preserveAspectRatio="none"
+       id="image1389"
+       x="145.61212"
+       y="88.212013" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/goat.png"
+       xlink:href="figs/goat.png"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="24.179401"
+       height="19.495148"
+       preserveAspectRatio="none"
+       id="image1451"
+       x="8.1215143"
+       y="59.521496" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/horse.jpg"
+       xlink:href="figs/horse.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="14.760138"
+       height="21.680643"
+       preserveAspectRatio="none"
+       id="image1513"
+       x="10.232065"
+       y="113.70376" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/jackal.jpg"
+       xlink:href="figs/jackal.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="25.042412"
+       height="20.935457"
+       preserveAspectRatio="none"
+       id="image1575"
+       x="77.173615"
+       y="114.44894" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/lamb.jpg"
+       xlink:href="figs/lamb.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="14.208529"
+       height="21.434383"
+       preserveAspectRatio="none"
+       id="image1637"
+       x="154.67325"
+       y="114.70159" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/leopard.jpg"
+       xlink:href="figs/leopard.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="28.707193"
+       height="18.138748"
+       preserveAspectRatio="none"
+       id="image1699"
+       x="141.17258"
+       y="60.877895" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/lion.jpg"
+       xlink:href="figs/lion.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="21.018723"
+       height="19.27186"
+       preserveAspectRatio="none"
+       id="image1761"
+       x="178.84552"
+       y="59.744781" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/mule.jpg"
+       xlink:href="figs/mule.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="26.221466"
+       height="20.963514"
+       preserveAspectRatio="none"
+       id="image1823"
+       x="40.542744"
+       y="115.24059" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/ox.jpg"
+       xlink:href="figs/ox.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="26.30332"
+       height="17.382359"
+       preserveAspectRatio="none"
+       id="image1885"
+       x="108.23742"
+       y="30.888046" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/pig.jpg"
+       xlink:href="figs/pig.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="22.35981"
+       height="16.380684"
+       preserveAspectRatio="none"
+       id="image1947"
+       x="110.51752"
+       y="62.63596" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/puppy.png"
+       xlink:href="figs/puppy.png"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="21.899321"
+       height="19.394234"
+       preserveAspectRatio="none"
+       id="image2009"
+       x="40.470142"
+       y="31.61636" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/vulture.png"
+       xlink:href="figs/vulture.png"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="16.095858"
+       height="21.661715"
+       preserveAspectRatio="none"
+       id="image2133"
+       x="98.818901"
+       y="84.274719" />
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/wolf.jpg"
+       xlink:href="figs/wolf.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="29.966011"
+       height="20.015463"
+       preserveAspectRatio="none"
+       id="image2195"
+       x="71.42144"
+       y="30.153648" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="59.811375"
+       y="110.79438"
+       id="text839"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="59.811375"
+         y="110.79438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.28222221px">κορώνη</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="181.69913"
+       y="110.79438"
+       id="text843"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="181.69913"
+         y="110.79438"
+         style="stroke-width:0.28222221px">μέλισσα</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="146.37964"
+       y="110.79438"
+       id="text847"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="146.37964"
+         y="110.79438"
+         style="stroke-width:0.28222221px">αἰετός</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="44.222675"
+       y="85.775185"
+       id="text851"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="44.222675"
+         y="85.775185"
+         style="stroke-width:0.28222221px">ἔλαφος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="10.743277"
+       y="141.26686"
+       id="text855"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="10.743277"
+         y="141.26686"
+         style="stroke-width:0.28222221px">ἵππος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="77.548477"
+       y="55.761658"
+       id="text859"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="77.548477"
+         y="55.761658"
+         style="stroke-width:0.28222221px">λύκος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="77.806236"
+       y="85.775185"
+       id="text863"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="77.806236"
+         y="85.775185"
+         style="stroke-width:0.28222221px">κάπρος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="182.31732"
+       y="55.761658"
+       id="text867"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="182.31732"
+         y="55.761658"
+         style="stroke-width:0.28222221px">μόσχος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="98.401466"
+       y="110.79438"
+       id="text871"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan869"
+         x="98.401466"
+         y="110.79438"
+         style="stroke-width:0.28222221px">οἰωνός</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="145.3674"
+       y="55.761658"
+       id="text875"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan873"
+         x="145.3674"
+         y="55.761658"
+         style="stroke-width:0.28222221px">ταῦρος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="13.381241"
+       y="85.775185"
+       id="text883"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan881"
+         x="13.381241"
+         y="85.775185"
+         style="stroke-width:0.28222221px">αἴξ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="155.12192"
+       y="141.26686"
+       id="text887"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan885"
+         x="155.12192"
+         y="141.26686"
+         style="stroke-width:0.28222221px">ἄρνα</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="116.25701"
+       y="55.761658"
+       id="text891"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan889"
+         x="116.25701"
+         y="55.761658"
+         style="stroke-width:0.28222221px">βοῦς</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="85.289261"
+       y="141.26686"
+       id="text895"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan893"
+         x="85.289261"
+         y="141.26686"
+         style="stroke-width:0.28222221px">θώς</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="13.437084"
+       y="55.761658"
+       id="text899"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         x="13.437084"
+         y="55.761658"
+         style="stroke-width:0.28222221px">κύων</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="186.25497"
+       y="85.775185"
+       id="text903"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan901"
+         x="186.25497"
+         y="85.775185"
+         style="stroke-width:0.28222221px">λέων</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="41.189209"
+       y="141.26686"
+       id="text907"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan905"
+         x="41.189209"
+         y="141.26686"
+         style="stroke-width:0.28222221px">οὐρεύς</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="12.86834"
+       y="110.79438"
+       id="text911"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="12.86834"
+         y="110.79438"
+         style="stroke-width:0.28222221px">ὄρνις</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="145.50534"
+       y="85.775185"
+       id="text915"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="145.50534"
+         y="85.775185"
+         style="stroke-width:0.28222221px">πάρδαλις</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="42.837402"
+       y="55.761658"
+       id="text919"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="42.837402"
+         y="55.761658"
+         style="stroke-width:0.28222221px">σκύλαξ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="116.13206"
+       y="85.775185"
+       id="text923"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="116.13206"
+         y="85.775185"
+         style="stroke-width:0.28222221px">σῦς</tspan></text>
+    <image
+       sodipodi:absref="/home/bcrowell/animals/figs/sheep.jpg"
+       xlink:href="figs/sheep.jpg"
+       inkscape:export-ydpi="125.99"
+       inkscape:export-xdpi="125.99"
+       width="15.7874"
+       height="17.409393"
+       preserveAspectRatio="none"
+       id="image2071"
+       x="117.84247"
+       y="117.01076" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="120.28334"
+       y="141.26686"
+       id="text879"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan877"
+         x="120.28334"
+         y="141.26686"
+         style="stroke-width:0.28222221px">μῆλον</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="9.554822"
+       y="21.549583"
+       id="text884"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan882"
+         x="9.554822"
+         y="21.549583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';stroke-width:0.28222221px">Animals in Homeric Greek</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="9.3946247"
+       y="27.937929"
+       id="text888"
+       inkscape:export-xdpi="125.99"
+       inkscape:export-ydpi="125.99"><tspan
+         sodipodi:role="line"
+         id="tspan886"
+         x="9.3946247"
+         y="27.937929"
+         style="stroke-width:0.28222221px">practice with the declensions</tspan></text>
+  </g>
+</svg>
